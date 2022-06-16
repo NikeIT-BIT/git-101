@@ -2,4 +2,4 @@ Hello world
 edit in git hub
 
 work diff
-Ветка
+Ветка для мастера
