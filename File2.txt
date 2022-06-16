@@ -8,7 +8,7 @@ changer from brnch
 Ветка для мастера
 
 
-task1
+task2
 
 hot fix 
 
