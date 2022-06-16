@@ -7,5 +7,5 @@ work diff
 changer from brnch
 Ветка для мастера
 
-hot fix
+hot fix 
 
